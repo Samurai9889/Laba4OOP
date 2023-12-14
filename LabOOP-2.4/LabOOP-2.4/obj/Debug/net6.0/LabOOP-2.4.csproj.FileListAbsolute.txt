@@ -1,0 +1,28 @@
+D:\AltTab\ІПЗ-22\Код\ООП\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\LabOOP-2.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\AltTab\ІПЗ-22\Код\ООП\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\LabOOP-2.4.AssemblyInfoInputs.cache
+D:\AltTab\ІПЗ-22\Код\ООП\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\LabOOP-2.4.AssemblyInfo.cs
+D:\AltTab\ІПЗ-22\Код\ООП\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\LabOOP-2.4.csproj.CoreCompileInputs.cache
+D:\AltTab\ІПЗ-22\Код\ООП\LabOOP-2.4\LabOOP-2.4\bin\Debug\net6.0\LabOOP-2.4.exe
+D:\AltTab\ІПЗ-22\Код\ООП\LabOOP-2.4\LabOOP-2.4\bin\Debug\net6.0\LabOOP-2.4.deps.json
+D:\AltTab\ІПЗ-22\Код\ООП\LabOOP-2.4\LabOOP-2.4\bin\Debug\net6.0\LabOOP-2.4.runtimeconfig.json
+D:\AltTab\ІПЗ-22\Код\ООП\LabOOP-2.4\LabOOP-2.4\bin\Debug\net6.0\LabOOP-2.4.dll
+D:\AltTab\ІПЗ-22\Код\ООП\LabOOP-2.4\LabOOP-2.4\bin\Debug\net6.0\LabOOP-2.4.pdb
+D:\AltTab\ІПЗ-22\Код\ООП\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\LabOOP-2.4.dll
+D:\AltTab\ІПЗ-22\Код\ООП\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\refint\LabOOP-2.4.dll
+D:\AltTab\ІПЗ-22\Код\ООП\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\LabOOP-2.4.pdb
+D:\AltTab\ІПЗ-22\Код\ООП\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\LabOOP-2.4.genruntimeconfig.cache
+D:\AltTab\ІПЗ-22\Код\ООП\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\ref\LabOOP-2.4.dll
+C:\Users\edikk\OneDrive\Рабочий стол\LabOOP-2.4\LabOOP-2.4\bin\Debug\net6.0\LabOOP-2.4.exe
+C:\Users\edikk\OneDrive\Рабочий стол\LabOOP-2.4\LabOOP-2.4\bin\Debug\net6.0\LabOOP-2.4.deps.json
+C:\Users\edikk\OneDrive\Рабочий стол\LabOOP-2.4\LabOOP-2.4\bin\Debug\net6.0\LabOOP-2.4.runtimeconfig.json
+C:\Users\edikk\OneDrive\Рабочий стол\LabOOP-2.4\LabOOP-2.4\bin\Debug\net6.0\LabOOP-2.4.dll
+C:\Users\edikk\OneDrive\Рабочий стол\LabOOP-2.4\LabOOP-2.4\bin\Debug\net6.0\LabOOP-2.4.pdb
+C:\Users\edikk\OneDrive\Рабочий стол\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\LabOOP-2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edikk\OneDrive\Рабочий стол\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\LabOOP-2.4.AssemblyInfoInputs.cache
+C:\Users\edikk\OneDrive\Рабочий стол\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\LabOOP-2.4.AssemblyInfo.cs
+C:\Users\edikk\OneDrive\Рабочий стол\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\LabOOP-2.4.csproj.CoreCompileInputs.cache
+C:\Users\edikk\OneDrive\Рабочий стол\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\LabOOP-2.4.dll
+C:\Users\edikk\OneDrive\Рабочий стол\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\refint\LabOOP-2.4.dll
+C:\Users\edikk\OneDrive\Рабочий стол\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\LabOOP-2.4.pdb
+C:\Users\edikk\OneDrive\Рабочий стол\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\LabOOP-2.4.genruntimeconfig.cache
+C:\Users\edikk\OneDrive\Рабочий стол\LabOOP-2.4\LabOOP-2.4\obj\Debug\net6.0\ref\LabOOP-2.4.dll

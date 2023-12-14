@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "onrNKfI6X5TAi0RRF2G1dQaxoWWGnOBwwyfnIfhrw+gEkaWKa1KKfK+/zc/oog5MCGxq0zM87YBmhthto6L8TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edikk\\OneDrive\\Рабочий стол\\LabOOP-2.4\\LabOOP-2.4\\LabOOP-2.4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edikk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\edikk\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\edikk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\edikk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
